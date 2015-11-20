@@ -1,2 +1,1 @@
 Managed/Assembly-CSharp.dll https://raw.githubusercontent.com/leon-ul/Test2/master/Assembly-CSharp.dll
-mainData https://raw.githubusercontent.com/leon-ul/Test2/master/mainData
